@@ -4,3 +4,4 @@ git commit
 git config --global core.editor vim
 
 git commit -m 'message'
+git checkout $branch
